@@ -1,0 +1,414 @@
+[
+  {
+    "intent":"WhatIsTupp",
+    "examples": [
+       "What is Tupp",
+      "Tell me about Tupp",
+      "Explain what Tupp does",
+      "What can Tupp do for me",
+      "How does Tupp help with content?",
+      "Is Tupp an AI tool?",
+      "Can Tupp improve my website?",
+      "What features does Tupp offer?",
+      "How easy is Tupp to use?",
+      "Who can benefit from using Tupp?"
+    ],
+    "metadata": [
+      "Tupp is a No-Code AI platform that transforms your content into insightful answers and innovative ideas. It's designed for swift innovation without the need for coding, allowing you to simply drag, drop, and unleash AI on your content."
+    ]
+  },
+  {
+    "intent":"ContentToLife",
+    "examples": [
+       "How can I bring my content to life",
+      "What does it mean to bring content to life",
+      "How does Tupp enhance my chats",
+      "Can Tupp animate my blog posts?",
+      "Will Tupp make my content interactive?",
+      "Does Tupp work with any content type?",
+      "How can Tupp make my text more engaging?",
+      "Can Tupp help with video content?",
+      "Will Tupp assist in content marketing?",
+      "How does Tupp handle different languages in content?"
+    ],
+    "metadata": [
+      "With Tupp, you can harness the power of AI to enhance chats, understand content, and effortlessly switch languages, breathing life into your content without getting bogged down in technical details."
+    ]
+  },
+  {
+    "intent":"LanguageSwitching",
+    "examples": [
+      "Can Tupp switch languages",
+      "How does the language switcher work",
+      "Will there be any hiccups when changing languages",
+      "Does Tupp support multi-language conversations?",
+      "Can Tupp translate my content?",
+      "How many languages can Tupp handle?",
+      "Is language switching automatic in Tupp?",
+      "Can I control language preferences in Tupp?",
+      "How does Tupp detect different languages?",
+      "Is there a limit to language switching in Tupp?"
+    ],
+    "metadata": [
+      "Tupp's Language Switcher allows you to change languages in conversations with your content smoothly and without any hiccups, ensuring seamless international communication."
+    ]
+  },
+  {
+    "intent":"SmartChatHelper",
+    "examples": [
+      "What is the Smart Chat Helper",
+      "How does the chat helper work",
+      "Can Tupp remember past chats",
+      "Will the Smart Chat Helper improve customer service?",
+      "Is the chat helper included in all Tupp plans?",
+      "How does the Smart Chat Helper use AI?",
+      "Can the Smart Chat Helper provide analytics?",
+      "Does the Smart Chat Helper support all chat platforms?",
+      "How does the Smart Chat Helper handle complex inquiries?",
+      "What makes Tupp's Smart Chat Helper unique?"
+    ],
+    "metadata": [
+      "Our Smart Chat Helper is a feature that remembers past chats to provide better, more personalized help in future conversations."
+    ]
+  },
+  {
+    "intent":"ConverseWithData",
+    "examples": [
+      "How do I converse with my data",
+      "Can I use my website content with Tupp",
+      "Do I need to know AI or coding to use Tupp",
+      "How can Tupp utilize my data for conversations?",
+      "Will Tupp integrate with my existing data systems?",
+      "Can non-technical users manage data conversations in Tupp?",
+      "How does Tupp extract insights from data?",
+      "Can Tupp make data-driven decisions?",
+      "How does Tupp ensure data privacy during conversations?",
+      "What kind of data is Tupp capable of processing?"
+    ],
+    "metadata": [
+      "Tupp allows you to converse with your data by leveraging your website content for great results. It's simple to connect, beginner-friendly, and there's no need to know about AI or coding to get started."
+    ]
+  },
+  {
+    "intent": "TuppPricingPlans",
+    "examples": [
+      "What are Tupp's pricing plans?",
+      "Can you tell me about Tupp's subscription options?",
+      "How much does Tupp cost?",
+      "What do I get with each Tupp plan?",
+      "Is there a free version of Tupp?",
+      "What's included in the Bronze plan?",
+      "What are the benefits of the Silver plan?",
+      "Why should I consider the Gold plan for my business?",
+      "Are there any limits on the number of users in Tupp plans?",
+      "Do all Tupp plans offer unlimited chatflows?"
+    ],
+    "metadata": [
+      "Tupp offers three plans: Bronze at €0 with unlimited chatflows and users, Silver at €99 with added API access, and Gold at €249 for businesses with all features and dedicated support."
+    ]
+  },
+  {
+    "intent": "CustomPlanInquiry",
+    "examples": [
+      "Can I get a custom plan for Tupp?",
+      "Does Tupp offer tailored solutions?",
+      "How do I get a bespoke plan for my enterprise with Tupp?",
+      "Who do I contact for a custom Tupp plan?",
+      "Are customized features available with Tupp?",
+      "What kind of dedicated support does Tupp offer?",
+      "Can Tupp handle enterprise-level requirements?",
+      "How can I tailor Tupp to fit my unique needs?",
+      "What does Tupp offer for large-scale operations?",
+      "Is there a way to get more personalized service from Tupp?"
+    ],
+    "metadata": [
+      "For custom solutions, Tupp provides tailored features and dedicated support, ideal for enterprise-level requirements. Get in touch to discuss a plan designed just for your unique needs."
+    ]
+  },
+  {
+    "intent":"DataSecurity",
+    "examples": [
+      "Is my data safe with Tupp",
+      "How does Tupp protect my information",
+      "What security measures does Tupp have"
+    ],
+    "metadata": [
+      "Your data's security is paramount with Tupp. We ensure your website's information is secure with us, keeping it safe while helping you achieve the best results."
+    ]
+  },
+  {
+    "intent":"TechnologyBehindTupp",
+    "examples": [
+      "What technology does Tupp use",
+      "Tell me about the tech behind Tupp",
+      "What is LangchainJS"
+    ],
+    "metadata": [
+      "Tupp utilizes open-source tools to build and manage customized LLM flows using LangchainJS, which is written in Node Typescript/Javascript, enabling a robust and flexible AI platform."
+    ]
+  },
+  {
+    "intent":"WhatIsLangchain",
+    "examples": [
+      "What is Langchain",
+      "Explain the Langchain framework",
+      "How does Langchain work",
+      "What can I do with Langchain",
+      "Can Langchain integrate with my existing apps",
+      "What makes Langchain unique for application development",
+      "Are there any prerequisites to using Langchain"
+    ],
+    "metadata": [
+      "LangChain is a framework for building applications with language models, making them context-aware and capable of reasoning. It includes libraries for Python and JavaScript, templates for various tasks, and tools like LangServe and LangSmith to deploy and monitor applications."
+    ]
+  },
+  {
+    "intent":"LangchainComponents",
+    "examples": [
+      "What are Langchain components",
+      "Tell me about off-the-shelf chains in Langchain",
+      "Can I customize Langchain chains",
+      "What types of components does Langchain offer",
+      "How do I integrate Langchain components into my project",
+      "Are Langchain's components suitable for non-developers"
+    ],
+    "metadata": [
+      "LangChain Libraries offer components that are modular and easy-to-use for working with language models, and off-the-shelf chains for higher-level tasks. These components and chains are designed for customization and extensibility."
+    ]
+  },
+  {
+    "intent":"LangchainExpressionLanguage",
+    "examples": [
+      "What is LCEL in Langchain",
+      "How does the LangChain Expression Language work",
+      "Can I use LCEL for production",
+      "Is LCEL difficult to learn",
+      "How does LCEL simplify chain composition",
+      "Can LCEL handle complex application logic"
+    ],
+    "metadata": [
+      "LangChain Expression Language (LCEL) is a declarative way to compose chains in Langchain, designed to support moving prototypes into production with no code changes, ranging from simple to complex chains."
+    ]
+  },
+  {
+    "intent":"LangchainModules",
+    "examples": [
+      "What modules does Langchain provide",
+      "How does Model I/O work in Langchain",
+      "What is the Retrieval module in Langchain",
+      "Can Langchain modules be extended",
+      "What kind of Agents does Langchain support",
+      "How do I use Langchain's modules in my app"
+    ],
+    "metadata": [
+      "LangChain provides standard, extendable interfaces for modules such as Model I/O, Retrieval, and Agents. These modules help interface with language models, application-specific data, and allow models to choose tools based on high-level directives."
+    ]
+  },
+  {
+    "intent":"AchievementsWithTupp",
+    "examples": [
+      "What can I achieve with Tupp",
+      "Can Tupp help with document question answering",
+      "Is Tupp suitable for creating chatbots",
+      "How does Tupp enhance content interaction",
+      "What AI-powered features does Tupp offer",
+      "Can Tupp assist in data analysis"
+    ],
+    "metadata": [
+      "With Tupp, you can achieve various use cases such as document question answering, building chatbots, and analyzing structured data, leveraging the power of AI to enhance interaction with your content."
+    ]
+  },
+  {
+    "intent":"DefineChain",
+    "examples": [
+      "What is a chain in programming",
+      "Explain what a chain means in AI",
+      "What does chain refer to in Langchain",
+      "I'm confused about chains, can you clarify",
+      "Define 'chain' in the context of Langchain",
+      "What's the role of a chain in language models",
+      "Can you tell me what a chain is in simple terms",
+      "What do you mean by 'chain' in simple words?",
+      "Can you describe a 'chain' without tech jargon?",
+      "I heard 'chain' used with Tupp, what is it?"
+    ],
+    "metadata": [
+      "In the context of Langchain, a 'chain' refers to a sequence of components or operations that are linked together to process data or perform tasks in an application powered by language models. It is a way to organize and execute a series of actions that work together to accomplish a specific goal within the framework."
+    ]
+  },
+  {
+    "intent":"DefineLanguageModel",
+    "examples": [
+      "What is a language model",
+      "Can you define a language model",
+      "Explain language models in AI",
+      "What's the purpose of a language model",
+      "How does a language model work",
+      "What can language models do",
+      "Are language models part of Langchain"
+    ],
+    "metadata": [
+      "A language model is an AI algorithm that understands, interprets, and generates human language. Based on vast amounts of text data, these models can predict the next word in a sentence, answer questions, translate languages, and even create coherent paragraphs of text. They are a fundamental part of frameworks like Langchain."
+    ]
+  },
+  {
+    "intent":"DefineLCEL",
+    "examples": [
+      "What is LCEL",
+      "Can you explain LCEL in Langchain",
+      "What does LCEL stand for",
+      "How is LCEL used",
+      "What are the benefits of using LCEL",
+      "Is LCEL necessary for Langchain",
+      "Give me an overview of LCEL"
+    ],
+    "metadata": [
+      "LCEL, or LangChain Expression Language, is a declarative language used within the Langchain framework to compose chains of operations. It simplifies the process of creating and managing these chains, making it easier to move from prototype to production without changing the underlying code."
+    ]
+  },
+  {
+    "intent": "OrchestrationOfPrompts",
+    "examples": [
+      "What does it mean to orchestrate prompts?",
+      "Can you explain chained prompts in Tupp?",
+      "How does Tupp link together different questions?",
+      "What's the advantage of chaining prompts in Tupp?",
+      "How does Tupp make use of previous answers?",
+      "Can Tupp use an answer it just gave in the next question?",
+      "Does Tupp remember what it said before?",
+      "Why doesn't Tupp use one-off commands?",
+      "How does prompt chaining work in Tupp?",
+      "What is the flow of interaction in Tupp?"
+    ],
+    "metadata": [
+      "Tupp can link prompts in a series, kind of like how a conversation goes back and forth. This lets the AI remember past interactions to make the conversation more coherent and connected, just like chatting with a friend."
+    ]
+  },
+  {
+    "intent": "ReasoningThroughProblems",
+    "examples": [
+      "How does Tupp help solve problems?",
+      "Can Tupp break down complex tasks?",
+      "What's Tupp's way of thinking through a problem?",
+      "Does Tupp think like a human?",
+      "How can Tupp manage complicated tasks?",
+      "Can Tupp handle multi-step problems?",
+      "What makes Tupp different in problem-solving?",
+      "How does Tupp approach a difficult question?",
+      "Can Tupp think through problems step by step?",
+      "How does Tupp's reasoning work?"
+    ],
+    "metadata": [
+      "Think of Tupp as a smart assistant that breaks down big problems into smaller pieces, solving each bit one step at a time, and then putting it all together to find a solution."
+    ]
+  },
+  {
+    "intent": "ContextualMemoryInLLMs",
+    "examples": [
+      "What is contextual memory in Tupp?",
+      "How does Tupp remember what was said?",
+      "Can Tupp keep track of the conversation?",
+      "What does context mean in Tupp interactions?",
+      "How does Tupp's memory affect its responses?",
+      "Does Tupp have a way to recall previous interactions?",
+      "Can Tupp provide answers based on earlier questions?",
+      "How does prior context influence Tupp's current response?",
+      "What role does memory play in Tupp's processing?",
+      "How is Tupp different with its use of context?"
+    ],
+    "metadata": [
+      "Tupp has a 'memory' that helps it remember what was discussed earlier. This makes its conversations flow better, allowing it to give answers that make sense based on what's been talked about before."
+    ]
+  },
+  {
+    "intent": "InteractiveWorkflowCreation",
+    "examples": [
+      "How does Tupp create workflows?",
+      "Can Tupp make its own plan for solving problems?",
+      "What's an interactive workflow in Tupp?",
+      "How can Tupp decide on the steps to answer a question?",
+      "Does Tupp build upon previous answers to create a workflow?",
+      "Can Tupp design a sequence of tasks by itself?",
+      "How interactive is the workflow creation in Tupp?",
+      "Can Tupp make workflows for complex problem-solving?",
+      "How does Tupp progress through a workflow?",
+      "What is the process of building a workflow in Tupp?"
+    ],
+    "metadata": [
+      "Tupp can set up a step-by-step plan (or workflow) to tackle problems. It's like giving the AI a checklist where it can tick off each task as it goes, using what it learned in earlier steps to help with the next ones."
+    ]
+  },
+  {
+    "intent": "WhatIsNLP",
+    "examples": [
+      "What does NLP stand for?",
+      "Can you explain NLP to me?",
+      "What's natural language processing all about?",
+      "How do computers understand human language?",
+      "What is NLP used for?",
+      "Why is NLP important?",
+      "How does NLP work?",
+      "Can you give me examples of NLP?",
+      "Is NLP the same as AI?",
+      "How do machines read human language?"
+    ],
+    "metadata": [
+      "NLP, or natural language processing, is like teaching computers to understand and respond to human language, so we can chat with them or get them to understand what we're saying or writing."
+    ]
+  },
+  {
+    "intent": "NLPInPractice",
+    "examples": [
+      "Where do I see NLP in everyday life?",
+      "How is NLP used in the real world?",
+      "What are some things that use NLP?",
+      "Can you list NLP technologies?",
+      "How does speech recognition use NLP?",
+      "What's sentiment analysis in NLP?",
+      "How do language translators use NLP?",
+      "Can you explain how chatbots use NLP?",
+      "What are NLP techniques?",
+      "How have NLP models improved over time?"
+    ],
+    "metadata": [
+      "NLP is used in things like voice-activated GPS systems, digital assistants that understand your spoken commands, programs that translate languages, and chatbots that help you shop online."
+    ]
+  },
+  {
+    "intent": "WhatIsLLM",
+    "examples": [
+      "What's a Large Language Model?",
+      "Can you tell me about LLMs?",
+      "How do big language models work?",
+      "What does a Large Language Model do?",
+      "Why are Large Language Models important?",
+      "What can LLMs create?",
+      "How do LLMs understand language?",
+      "What are LLMs used for?",
+      "Are LLMs like AI?",
+      "How smart are Large Language Models?"
+    ],
+    "metadata": [
+      "LLMs are like big brains in computers that learn from lots of books, articles, and websites to understand and use human language. They help with translating languages, answering questions, and even writing essays or poems!"
+    ]
+  },
+  {
+    "intent": "HowLLMsWork",
+    "examples": [
+      "How do LLMs learn to understand text?",
+      "What's the training process for LLMs?",
+      "How do LLMs know what to write next?",
+      "Can you explain how LLMs are built?",
+      "Do LLMs learn like humans?",
+      "What's the Transformer architecture in LLMs?",
+      "How do LLMs learn grammar and facts?",
+      "Can LLMs reason like people?",
+      "What are machine learning parameters in LLMs?",
+      "How do LLMs get better at specific tasks?"
+    ],
+    "metadata": [
+      "Large Language Models are trained by reading tons of text to spot patterns. They use special algorithms to understand the context and generate new sentences that sound like they were written by a person."
+    ]
+  }
+]
+
